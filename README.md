@@ -15,7 +15,7 @@ Este repositorio contiene solo lo que se descarga: el instalador, los complement
 | Qué | Dónde |
 |---|---|
 | **FetchJ para Windows** (versión más reciente) | [**Descargar FetchJ_Setup.exe**](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Setup.exe) |
-| **Manual del usuario** (PDF) | [Español](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Handbuch_DE.pdf) · [English](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_EN.pdf) |
+| **Manual del usuario** (PDF) | [Español](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Handbuch_DE.pdf) · [English](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_EN.pdf) · [Português](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_PT.pdf) |
 | Complemento **OCR** (reconocimiento de texto para la Investigación) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
 | Complemento **FFmpeg** (grabaciones de audiencias en un solo .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
 
