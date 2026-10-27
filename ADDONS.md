@@ -29,7 +29,7 @@ Only used to put picture and sound of a hearing recording into one .mp4 without 
 https://github.com/FFmpeg/FFmpeg ; build scripts and configuration: https://github.com/BtbN/FFmpeg-Builds .
 FetchJ uses `ffmpeg.exe` unchanged as a separate program (it is not linked into FetchJ). The LGPL-3.0 builds on the
 GPL-3.0: https://www.gnu.org/licenses/gpl-3.0.txt . On request we send a copy of the corresponding source:
-fetchjudicial@gmail.com.
+info@fetchj.com.
 
 
 ## Checksums

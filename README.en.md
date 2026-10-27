@@ -53,7 +53,8 @@ Every release has a `SHA256_….txt` file with the checksums.
 
 ## Support
 
-E-mail: **fetchjudicial@gmail.com** – in FetchJ: *Help & Info → Send support data* (no passwords).
+E-mail: **support@fetchj.com** – in FetchJ: *Help & Info → Send support data* (no passwords).
+Licence: **license@fetchj.com** · purchase and prices: **ventas@fetchj.com** · general contact: **info@fetchj.com**.
 
 ## Third-party licences
 

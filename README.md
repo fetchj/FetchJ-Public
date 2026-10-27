@@ -53,7 +53,8 @@ Cada release trae un archivo `SHA256_….txt` con las sumas de control.
 
 ## Soporte
 
-Correo: **fetchjudicial@gmail.com** – en FetchJ: *Ayuda e información → Enviar datos de soporte* (sin contraseñas).
+Correo: **support@fetchj.com** – en FetchJ: *Ayuda e información → Enviar datos de soporte* (sin contraseñas).
+Licencias: **license@fetchj.com** · compras y precios: **ventas@fetchj.com** · contacto general: **info@fetchj.com**.
 
 ## Licencias de terceros
 

@@ -53,7 +53,8 @@ Jedes Release enthält eine Datei `SHA256_….txt` mit den Prüfsummen.
 
 ## Support
 
-E-Mail: **fetchjudicial@gmail.com** – in FetchJ: *Hilfe & Info → Support-Daten senden* (ohne Passwörter).
+E-Mail: **support@fetchj.com** – in FetchJ: *Hilfe & Info → Support-Daten senden* (ohne Passwörter).
+Lizenz: **license@fetchj.com** · Kauf und Preise: **ventas@fetchj.com** · allgemeiner Kontakt: **info@fetchj.com**.
 
 ## Lizenzen Dritter
 
