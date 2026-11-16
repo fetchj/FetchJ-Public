@@ -15,7 +15,7 @@ Dieses Repository enthält nur, was heruntergeladen wird: das Setup, die Zusätz
 | Was | Wo |
 |---|---|
 | **FetchJ für Windows** (neueste Version) | [**FetchJ_Setup.exe herunterladen**](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Setup.exe) |
-| **Benutzerhandbuch** (PDF) | [Deutsch](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Handbuch_DE.pdf) · [Español](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_ES.pdf) · [English](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_EN.pdf) |
+| **Benutzerhandbuch** (PDF) | [Deutsch](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Handbuch_DE.pdf) · [Español](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_ES.pdf) · [English](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_EN.pdf) · [Português](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_PT.pdf) |
 | **OCR-Zusatz** (Texterkennung für die Recherche) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
 | **FFmpeg-Zusatz** (Aufnahmen der Verhandlungen als eine .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
 
@@ -41,7 +41,7 @@ Jedes Release enthält eine Datei `SHA256_….txt` mit den Prüfsummen.
 
 ## Häufige Fragen
 
-**Speichert FetchJ mein Passwort?** Nein. FetchJ tippt, liest oder speichert nie Benutzer, Passwort oder Code. Sie melden sich im Portal-Fenster selbst an.
+**Speichert FetchJ mein Passwort?** Nein. FetchJ tippt, liest oder speichert nie Ihren Benutzer oder Ihr Passwort – Sie melden sich im Portal-Fenster immer selbst an. Den Sicherheitscode geben Sie selbst ein. Nur wenn Sie freiwillig Ihren 2FA-Schlüssel hinterlegen, rechnet FetchJ den Code aus und trägt ihn bei der Anmeldung ein.
 
 **Schickt FetchJ meine Akten irgendwohin?** Nein. Die Dokumente bleiben nur auf Ihrem Computer. FetchJ spricht nur mit dem Portal des Poder Judicial (und, wenn Sie es nutzen, mit Nexus.PJ für die Recherche nach Urteilen).
 
@@ -53,7 +53,7 @@ Jedes Release enthält eine Datei `SHA256_….txt` mit den Prüfsummen.
 
 ## Support
 
-E-Mail: **support@fetchj.com** – in FetchJ: *Hilfe & Info → Support-Daten senden* (ohne Passwörter).
+E-Mail: **support@fetchj.com** – in FetchJ: *Menü → ✉ Support* (ohne Passwörter).
 Lizenz: **license@fetchj.com** · Kauf und Preise: **ventas@fetchj.com** · allgemeiner Kontakt: **info@fetchj.com**.
 
 ## Lizenzen Dritter

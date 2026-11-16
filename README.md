@@ -41,7 +41,7 @@ Cada release trae un archivo `SHA256_….txt` con las sumas de control.
 
 ## Preguntas frecuentes
 
-**¿FetchJ guarda mi contraseña?** No. FetchJ nunca escribe, lee ni guarda su usuario, contraseña o código. Usted inicia sesión en la ventana del portal.
+**¿FetchJ guarda mi contraseña?** No. FetchJ nunca escribe, lee ni guarda su usuario ni su contraseña: usted siempre inicia sesión en la ventana del portal. El código de seguridad lo ingresa usted. Solo si usted guarda voluntariamente su clave 2FA, FetchJ calcula el código y lo ingresa al iniciar sesión.
 
 **¿Envía FetchJ mis expedientes a algún lugar?** No. Los documentos quedan solo en su computadora. FetchJ habla únicamente con el portal del Poder Judicial (y, si usted lo usa, con Nexus.PJ para la Investigación de jurisprudencia).
 
@@ -53,7 +53,7 @@ Cada release trae un archivo `SHA256_….txt` con las sumas de control.
 
 ## Soporte
 
-Correo: **support@fetchj.com** – en FetchJ: *Ayuda e información → Enviar datos de soporte* (sin contraseñas).
+Correo: **support@fetchj.com** – en FetchJ: *Menú → ✉ Soporte* (sin contraseñas).
 Licencias: **license@fetchj.com** · compras y precios: **ventas@fetchj.com** · contacto general: **info@fetchj.com**.
 
 ## Licencias de terceros

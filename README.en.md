@@ -15,7 +15,7 @@ This repository holds only what is downloaded: the installer, the add-ons and th
 | What | Where |
 |---|---|
 | **FetchJ for Windows** (newest version) | [**Download FetchJ_Setup.exe**](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Setup.exe) |
-| **User manual** (PDF) | [English](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_EN.pdf) · [Español](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Handbuch_DE.pdf) |
+| **User manual** (PDF) | [English](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_EN.pdf) · [Español](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Handbuch_DE.pdf) · [Português](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_PT.pdf) |
 | **OCR add-on** (text recognition for Research) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
 | **FFmpeg add-on** (hearing recordings as one .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
 
@@ -41,7 +41,7 @@ Every release has a `SHA256_….txt` file with the checksums.
 
 ## Frequently asked questions
 
-**Does FetchJ store my password?** No. FetchJ never types, reads or stores user name, password or code. You log in yourself in the portal window.
+**Does FetchJ store my password?** No. FetchJ never types, reads or stores your user name or your password – you always sign in to the portal window yourself. You enter the security code yourself. Only if you choose to store your 2FA key does FetchJ calculate the code and enter it when signing in.
 
 **Does FetchJ send my cases anywhere?** No. The documents stay on your computer only. FetchJ talks only to the portal of the Poder Judicial (and, if you use it, to Nexus.PJ for the research of judgments).
 
@@ -53,7 +53,7 @@ Every release has a `SHA256_….txt` file with the checksums.
 
 ## Support
 
-E-mail: **support@fetchj.com** – in FetchJ: *Help & Info → Send support data* (no passwords).
+E-mail: **support@fetchj.com** – in FetchJ: *Menu → ✉ Support* (no passwords).
 Licence: **license@fetchj.com** · purchase and prices: **ventas@fetchj.com** · general contact: **info@fetchj.com**.
 
 ## Third-party licences
